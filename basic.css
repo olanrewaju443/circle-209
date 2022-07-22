@@ -1,0 +1,22 @@
+
+header{
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid blue;
+}
+navbar{
+  border: 1px solid red;
+  width: 20%;
+}
+nav{
+  display: flex;  
+}
+table{
+  border: 1px solid orange;
+}
+th {
+  border: 1px solid green;
+}
+td {
+  border: 1px solid black;
+}
